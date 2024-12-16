@@ -6,17 +6,38 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BFC4AAC72D0FC6E200C49F59 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFC4AAC12D0FC6E200C49F59 /* Preview Assets.xcassets */; };
+		BFC4AAC82D0FC6E200C49F59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFC4AAC32D0FC6E200C49F59 /* Assets.xcassets */; };
+		BFC4AAC92D0FC6E200C49F59 /* AcrosticPoemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAC42D0FC6E200C49F59 /* AcrosticPoemView.swift */; };
+		BFC4AACA2D0FC6E200C49F59 /* TextExplorationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAC52D0FC6E200C49F59 /* TextExplorationApp.swift */; };
+		BFC4AACC2D0FCC4C00C49F59 /* MarkDownDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AACB2D0FCC4C00C49F59 /* MarkDownDemo.swift */; };
+		BFC4AACE2D0FCE7000C49F59 /* MarkdownAndStringInterpolation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AACD2D0FCE7000C49F59 /* MarkdownAndStringInterpolation.swift */; };
+		BFC4AAD02D0FCF9E00C49F59 /* DisplayCodeWIthMarkdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AACF2D0FCF9E00C49F59 /* DisplayCodeWIthMarkdown.swift */; };
+		BFC4AAD22D0FD18C00C49F59 /* OpenURLActionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAD12D0FD18C00C49F59 /* OpenURLActionDemo.swift */; };
+		BFC4AAD62D0FE2CD00C49F59 /* PluralizationDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAD52D0FE2CD00C49F59 /* PluralizationDemo.swift */; };
+		BFC4AAD82D0FE6A800C49F59 /* ListMemberStyleMeasurementDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAD72D0FE6A800C49F59 /* ListMemberStyleMeasurementDemo.swift */; };
+		BFC4AADA2D10060200C49F59 /* TextDateDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AAD92D10060200C49F59 /* TextDateDemo.swift */; };
+		BFC4AADC2D10095200C49F59 /* AttributedStringDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AADB2D10095200C49F59 /* AttributedStringDemo.swift */; };
+		BFC4AADE2D1016D500C49F59 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC4AADD2D1016D500C49F59 /* MainView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		BFC4AAB02D0FC6D200C49F59 /* TextExploration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextExploration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFC4AAC12D0FC6E200C49F59 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BFC4AAC32D0FC6E200C49F59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BFC4AAC42D0FC6E200C49F59 /* AcrosticPoemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AcrosticPoemView.swift; sourceTree = "<group>"; };
+		BFC4AAC52D0FC6E200C49F59 /* TextExplorationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExplorationApp.swift; sourceTree = "<group>"; };
+		BFC4AACB2D0FCC4C00C49F59 /* MarkDownDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkDownDemo.swift; sourceTree = "<group>"; };
+		BFC4AACD2D0FCE7000C49F59 /* MarkdownAndStringInterpolation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkdownAndStringInterpolation.swift; sourceTree = "<group>"; };
+		BFC4AACF2D0FCF9E00C49F59 /* DisplayCodeWIthMarkdown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayCodeWIthMarkdown.swift; sourceTree = "<group>"; };
+		BFC4AAD12D0FD18C00C49F59 /* OpenURLActionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenURLActionDemo.swift; sourceTree = "<group>"; };
+		BFC4AAD52D0FE2CD00C49F59 /* PluralizationDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PluralizationDemo.swift; sourceTree = "<group>"; };
+		BFC4AAD72D0FE6A800C49F59 /* ListMemberStyleMeasurementDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListMemberStyleMeasurementDemo.swift; sourceTree = "<group>"; };
+		BFC4AAD92D10060200C49F59 /* TextDateDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDateDemo.swift; sourceTree = "<group>"; };
+		BFC4AADB2D10095200C49F59 /* AttributedStringDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributedStringDemo.swift; sourceTree = "<group>"; };
+		BFC4AADD2D1016D500C49F59 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		BFC4AAB22D0FC6D200C49F59 /* TextExploration */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TextExploration;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		BFC4AAAD2D0FC6D200C49F59 /* Frameworks */ = {
@@ -32,7 +53,7 @@
 		BFC4AAA72D0FC6D200C49F59 = {
 			isa = PBXGroup;
 			children = (
-				BFC4AAB22D0FC6D200C49F59 /* TextExploration */,
+				BFC4AAC62D0FC6E200C49F59 /* TextExploration */,
 				BFC4AAB12D0FC6D200C49F59 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,6 +64,34 @@
 				BFC4AAB02D0FC6D200C49F59 /* TextExploration.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		BFC4AAC22D0FC6E200C49F59 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				BFC4AAC12D0FC6E200C49F59 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BFC4AAC62D0FC6E200C49F59 /* TextExploration */ = {
+			isa = PBXGroup;
+			children = (
+				BFC4AAC42D0FC6E200C49F59 /* AcrosticPoemView.swift */,
+				BFC4AACB2D0FCC4C00C49F59 /* MarkDownDemo.swift */,
+				BFC4AACD2D0FCE7000C49F59 /* MarkdownAndStringInterpolation.swift */,
+				BFC4AACF2D0FCF9E00C49F59 /* DisplayCodeWIthMarkdown.swift */,
+				BFC4AAD12D0FD18C00C49F59 /* OpenURLActionDemo.swift */,
+				BFC4AAD52D0FE2CD00C49F59 /* PluralizationDemo.swift */,
+				BFC4AAD72D0FE6A800C49F59 /* ListMemberStyleMeasurementDemo.swift */,
+				BFC4AAD92D10060200C49F59 /* TextDateDemo.swift */,
+				BFC4AADB2D10095200C49F59 /* AttributedStringDemo.swift */,
+				BFC4AADD2D1016D500C49F59 /* MainView.swift */,
+				BFC4AAC52D0FC6E200C49F59 /* TextExplorationApp.swift */,
+				BFC4AAC32D0FC6E200C49F59 /* Assets.xcassets */,
+				BFC4AAC22D0FC6E200C49F59 /* Preview Content */,
+			);
+			path = TextExploration;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -59,9 +108,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				BFC4AAB22D0FC6D200C49F59 /* TextExploration */,
 			);
 			name = TextExploration;
 			packageProductDependencies = (
@@ -109,6 +155,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFC4AAC72D0FC6E200C49F59 /* Preview Assets.xcassets in Resources */,
+				BFC4AAC82D0FC6E200C49F59 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +167,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFC4AAD22D0FD18C00C49F59 /* OpenURLActionDemo.swift in Sources */,
+				BFC4AACE2D0FCE7000C49F59 /* MarkdownAndStringInterpolation.swift in Sources */,
+				BFC4AADA2D10060200C49F59 /* TextDateDemo.swift in Sources */,
+				BFC4AAD02D0FCF9E00C49F59 /* DisplayCodeWIthMarkdown.swift in Sources */,
+				BFC4AAC92D0FC6E200C49F59 /* AcrosticPoemView.swift in Sources */,
+				BFC4AACA2D0FC6E200C49F59 /* TextExplorationApp.swift in Sources */,
+				BFC4AACC2D0FCC4C00C49F59 /* MarkDownDemo.swift in Sources */,
+				BFC4AADE2D1016D500C49F59 /* MainView.swift in Sources */,
+				BFC4AADC2D10095200C49F59 /* AttributedStringDemo.swift in Sources */,
+				BFC4AAD62D0FE2CD00C49F59 /* PluralizationDemo.swift in Sources */,
+				BFC4AAD82D0FE6A800C49F59 /* ListMemberStyleMeasurementDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
